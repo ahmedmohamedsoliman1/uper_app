@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250347023985",
+    "project_id": "upertrainig",
+    "storage_bucket": "upertrainig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250347023985:android:073fa16803c3a69a9eb5d0",
+        "android_client_info": {
+          "package_name": "com.team.zohoclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAisjc87iBd91eJ06fUJRCrXziniagAEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
